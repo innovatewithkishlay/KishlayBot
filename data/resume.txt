@@ -1,0 +1,27 @@
+Name: Kishlay Kumar
+
+Title: Full-Stack Developer
+
+Location: India
+
+Education:
+- B.Tech in Computer Science
+
+Experience:
+- 3+ years building modern web applications with a focus on clean UI/UX and scalable backend systems.
+- Specialized in React.js, Node.js, MongoDB, and Next.js for web development[1].
+- Experience building creative UI projects, including stylish 404 and no-results pages with Next.js and modern UI tools[2].
+- Active contributor to open-source projects and collaborative development.
+
+Key Skills:
+- Frontend: React.js, Next.js, TypeScript, Framer Motion, Tailwind CSS
+- Backend: Node.js, Express.js, MongoDB, REST APIs
+- Tools: Git, GitHub, Figma, Python, Firebase, Expo
+
+Achievements:
+- Developed and maintained multiple open-source tools and apps.
+- Built and deployed scalable, user-friendly platforms for diverse audiences.
+
+Links:
+- LinkedIn: https://linkedin.com/in/kishlaykumar
+- GitHub: https://github.com/kishlaykumar
