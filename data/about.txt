@@ -1,0 +1,14 @@
+Kishlay Kumar is a passionate full-stack developer from India with expertise in building modern, scalable web applications. He specializes in React.js, Node.js, and MongoDB, and is known for creating clean, interactive user interfaces with Framer Motion and Tailwind CSS.
+
+Kishlay holds a B.Tech in Computer Science and has over 3 years of experience working on diverse projects, ranging from portfolio generators and real-time collaborative tools to AI-powered accessibility checkers. He is dedicated to delivering seamless digital experiences and solving real-world problems through technology.
+
+Beyond coding, Kishlay enjoys playing sports, traveling to new places, and listening to music. He is always eager to explore new cultures and experiences, believing that creativity is fueled by curiosity and adventure. In his free time, he also likes experimenting with text animations and interactive UI elements, as well as keeping up with the latest trends in web animation and design[1][2].
+
+Key Skills:
+- Frontend: React.js, TypeScript, Next.js, Framer Motion, Tailwind CSS
+- Backend: Node.js, Express.js, MongoDB, REST APIs
+- Tools: Git, GitHub, Figma, Python (automation & AI tools)
+
+Kishlay is an active contributor to open-source projects and enjoys collaborating with other developers. He values clean code, modular design, and creative problem-solving.
+
+To learn more about Kishlay, explore his projects or connect via LinkedIn or GitHub.
