@@ -1,0 +1,74 @@
+Q: Who is Kishlay Kumar?
+A: Kishlay Kumar is a passionate full-stack developer from India, known for building modern, scalable web applications and creative user interfaces. He specializes in React.js, Node.js, MongoDB, and loves exploring the latest trends in web development.
+
+Q: What is Kishlay’s educational background?
+A: Kishlay holds a B.Tech in Computer Science and has over 3 years of experience building web applications.
+
+Q: What are Kishlay’s main technical skills?
+A: Kishlay specializes in React.js, Next.js, Node.js, MongoDB, TypeScript, Framer Motion, Tailwind CSS, Python, and is experienced with REST APIs, Git, Figma, Firebase, and Expo.
+
+Q: What programming languages does Kishlay use?
+A: Kishlay works with JavaScript, TypeScript, Python, PHP, and is comfortable with both frontend and backend development.
+
+Q: What are some of Kishlay’s interests outside of coding?
+A: Kishlay enjoys playing sports, traveling to new places, listening to music, exploring new cultures, and experimenting with creative UI animations and design.
+
+Q: What notable projects has Kishlay built?
+A: Kishlay has built QuickPaper (a collaborative document generator), ProcessPilot (system monitoring tool), CodeCollab (real-time code editor), AI Based Pet Assistance System, CarbonOffsetCalculator, MoodBased Song Recommendator, Keeper, V-learning LMS, Smart QR Companion, ClipVault, and WordWise, among others.
+
+Q: What is Kishlay’s workflow or approach to building projects?
+A: Kishlay believes in rapid prototyping, clean code, modular design, and user-centered development. He uses Git for version control, prefers agile workflows, and values collaboration and open-source contributions.
+
+Q: Where can I find Kishlay’s resume?
+A: You can view or download Kishlay’s resume at: https://github.com/kishlaykumar/resume.pdf
+
+Q: How can I contact Kishlay?
+A: You can reach Kishlay by email at kishlay@example.com, or connect via LinkedIn (https://linkedin.com/in/kishlaykumar) or GitHub (https://github.com/kishlaykumar).
+
+Q: What is the best way to see Kishlay’s latest work?
+A: Visit Kishlay’s GitHub profile at https://github.com/kishlaykumar or explore his portfolio website for the latest projects and updates.
+
+Q: What are Kishlay’s favorite tools and frameworks?
+A: Kishlay enjoys working with React.js, Next.js, Tailwind CSS, Framer Motion, Node.js, MongoDB, Express.js, and also uses Figma for design and prototyping.
+
+Q: Does Kishlay contribute to open source?
+A: Yes, Kishlay is an active contributor to open-source projects and enjoys collaborating with other developers to build useful tools and resources for the community.
+
+Q: What motivates Kishlay as a developer?
+A: Kishlay is motivated by the challenge of solving real-world problems, learning new technologies, and creating digital experiences that are both beautiful and functional.
+
+Q: What are Kishlay’s preferred methods for learning new tech?
+A: Kishlay prefers hands-on experimentation, building side projects, reading documentation, and participating in developer communities and hackathons.
+
+Q: What kind of music does Kishlay like?
+A: Kishlay enjoys a variety of music genres, including indie, electronic, and classic rock, and often listens to music while coding for inspiration.
+
+Q: What sports does Kishlay play?
+A: Kishlay enjoys playing cricket, football, and badminton, and believes sports help maintain a healthy work-life balance.
+
+Q: Has Kishlay ever spoken at events or written articles?
+A: Kishlay has participated in tech meetups and sometimes writes technical articles or tutorials about web development and UI/UX best practices.
+
+Q: What are Kishlay’s goals for the future?
+A: Kishlay aims to continue building innovative products, contribute more to open source, and mentor aspiring developers in the tech community.
+
+Q: What is Kishlay’s philosophy on design?
+A: Kishlay values clean, accessible, and user-friendly design, believing that great UI/UX is essential for the success of any digital product.
+
+Q: Can KishlayBot answer questions outside of Kishlay’s data?
+A: KishlayBot is focused on providing accurate answers about Kishlay’s background, skills, projects, and interests. For unrelated topics, it may not provide detailed responses.
+
+Q: How can I request a new feature or report a bug for Kishlay’s projects?
+A: You can open an issue or submit a pull request on the relevant GitHub repository, or contact Kishlay directly via email or LinkedIn.
+
+Q: What is Kishlay’s favorite part of web development?
+A: Kishlay loves bringing creative ideas to life with interactive UI, smooth animations, and building tools that make users’ lives easier.
+
+Q: Is Kishlay available for freelance or collaboration?
+A: Kishlay is open to interesting freelance opportunities and collaborations. Reach out via email or LinkedIn to discuss your project.
+
+Q: What are some fun facts about Kishlay?
+A: Kishlay enjoys photography during his travels, is a fan of sci-fi movies, and likes to experiment with new productivity tools and frameworks.
+
+Q: How does Kishlay stay updated in tech?
+A: Kishlay follows industry blogs, attends webinars, and is active in online developer communities to stay current with the latest trends and best practices.
