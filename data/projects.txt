@@ -1,0 +1,56 @@
+QuickPaper  
+QuickPaper is an open-source, Next.js + Tailwind CSS + TypeScript application designed to make document creation fast, beautiful, and collaborative. Users can generate professional letters, applications, certificates, proposals, and more.  
+Tech stack: Next.js, Tailwind CSS, Framer Motion  
+Source: https://github.com/innovatewithkishlay/QuickPaper  
+Demo: https://quickpaper.onrender.com/
+
+Chat App  
+A real-time chat application built with Node.js, Express, and Socket.IO. Users can send and receive messages instantly, with user authentication and message history. The app is responsive and works on both desktop and mobile devices.  
+Tech stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io  
+Source: https://github.com/innovatewithkishlay/chat-app
+
+ProcessPilot / Task Manager  
+ProcessPilot is a web-based tool for monitoring and managing system processes. Features real-time CPU and memory tracking, process filtering, termination, and an AI-powered chatbot for system queries. The app includes a dynamic CPU usage graph and displays key system details in a fully responsive design.  
+Tech stack: React.js, Tailwind CSS, Framer Motion, Python, PsUtil, Flask  
+Source: https://github.com/innovatewithkishlay/ProcessPilot
+
+AI Based Pet Assistance System  
+A web application leveraging AI to provide pet owners with personalized care advice and recommendations, plus expert guidance for common health concerns.  
+Tech stack: Framer Motion, Tailwind CSS, MongoDB, Node.js  
+Source: https://github.com/innovatewithkishlay/AI-BASED_PET_HEALTH_ASSISTANCE_SYSTEM  
+Demo: https://ai-based-pet-health-assistance-system-1-sj7t.onrender.com/
+
+CarbonOffsetCalculator v2 Pro  
+A personal carbon footprint tracking tool with an AI-powered chatbot. Users can estimate their carbon emissions, get sustainability tips, and ask questions about climate change. Features an interactive blog section for awareness and promoting greener lifestyles.  
+Tech stack: Python, Streamlit, Node.js, Express.js, JavaScript  
+Source: https://github.com/innovatewithkishlay/carbonOffsetCalculator
+
+MoodBased Song Recommendator  
+Suggests mood-based song recommendations using the YouTube API, with a UI made using advanced CSS5.  
+Tech stack: Fetch API, CSS5  
+Source: https://github.com/innovatewithkishlay/Mood_based_song_recomedation
+
+Keeper - Keep Your Notes  
+Inspired by Google Keep, this note-taking website is built with React, Tailwind CSS, and Material UI. It allows users to easily create and manage notes, with a responsive design for all devices.  
+Tech stack: React.js, Tailwind CSS, Material UI  
+Source: https://github.com/innovatewithkishlay/Your-Notes
+
+V-learning (An LMS Platform)  
+A powerful, user-friendly Learning Management System (LMS) designed to streamline the creation, delivery, and management of educational content.  
+Tech stack: React.js, Tailwind CSS, MongoDB, Framer Motion, PHP, MySQL  
+Source: https://github.com/innovatewithkishlay/LMS
+
+Smart QR Companion  
+QRaft is a cross-platform mobile app built with React Native and Expo, making QR code management simple and efficient.  
+Tech stack: React Native, Expo, Firebase  
+Source: https://github.com/innovatewithkishlay/smart-qr-companion
+
+ClipVault  
+A modern, open-source clipboard manager app for mobile, built with React Native and Expo Router. Features clipboard history management, search, dark mode, secure PIN protection, and more.  
+Tech stack: React Native, Expo, Expo Router  
+Source: https://github.com/innovatewithkishlay/ClipVault
+
+WordWise  
+WordWise is a vocabulary and pronunciation app for Android/iOS, built with React Native and Expo. Helps students master English words and pronunciation with AI-powered tools.  
+Tech stack: React Native, Expo, AI  
+Source: https://github.com/innovatewithkishlay/WordWise
